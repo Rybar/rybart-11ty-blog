@@ -1,20 +1,20 @@
 {
-  "title": "Your Blog Name",
+  "title": "Rybart",
   "url": "https://example.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "The art and code of Ryan Barrett Malm",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "The art and code of Ryan Barrett Malm",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://example.com/"
+    "id": "https://rybart.net/feed.xml"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://example.com/feed/feed.json"
+    "url": "https://rybart.netfeed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
+    "name": "Ryan Barrett malm",
+    "email": "ryan@rybart.net",
     "url": "https://example.com/about-me/"
   }
 }

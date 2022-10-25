@@ -1,26 +1,27 @@
 ---
-title: This is my first post.
-description: This is a post on My Blog about agile frameworks.
+title: Blog Reboot
+description: Fin
 date: 2018-05-01
 tags:
   - another-tag
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Finally doing something at rybart.net after 5+ years of sitting on the domain name. 
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+## What is this?
 
-## Section Header
+Who writes a blog in 2022?  Me I guess. I want to document my journey as a creative developer and what I learn along the way. I also want to share my traditional art in a format that isn't social media and is more IndieWeb friendly.
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+## What to expect
 
-``` text/2-3
+Art posts, musings, maybe some game dev related stuff.  I'm not sure yet.  I'm just going to start writing and see where it goes.
+
+``` javascript
 // this is a command
-function myCommand() {
-	let counter = 0;
-	counter++;
+function makeBlog() {
+	  console.log('hello world');	
 }
 
-// Test with a line break above this line.
+// A code block test
 console.log('Test');
 ```
